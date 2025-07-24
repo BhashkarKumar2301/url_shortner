@@ -3,6 +3,8 @@
 ## Overview
 Build a simple URL shortening service similar to bit.ly or tinyurl. This assignment tests your ability to design and implement a small but complete feature from scratch.
 
+
+check live at: https://url-shortner-bnbi.onrender.com
 ## Getting Started
 
 ### Prerequisites
